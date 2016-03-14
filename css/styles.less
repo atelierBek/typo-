@@ -1,0 +1,56 @@
+// # VARS
+
+@u: 10px;
+
+@n_width: 300px;
+
+@c_width: calc(~"100% - "@n_width);
+
+// # GLOBAL
+
+* {
+
+    background-color: rgba(0,0,0,0.1);
+
+}
+
+// # NAV
+
+#nav {
+
+    width: @n_width;
+    height: 100%;
+    position: fixed;
+}
+
+#nav .familleDiv {
+
+    margin-bottom: @u*2;
+
+}
+
+#nav .familleDiv .familleName {
+
+
+}
+
+#nav .familleDiv .fontName {
+
+
+}
+
+// # CONTENT
+
+#content {
+
+    width: @c_width;
+    margin-left: @n_width;
+}
+
+#content #informations {
+
+}
+
+#content #corps {
+
+}

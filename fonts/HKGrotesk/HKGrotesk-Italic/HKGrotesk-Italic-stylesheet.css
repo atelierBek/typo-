@@ -1,0 +1,10 @@
+
+		    /*HKGrotesk-Italic*/
+		    @font-face {
+			font-family: 'HKGrotesk-Italic';
+			src: url('HKGrotesk-Italic.eot'); /* IE 9 Compatibility Mode */
+			src: url('HKGrotesk-Italic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+			     url('HKGrotesk-Italic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+			     url('HKGrotesk-Italic.ttf') format('truetype'), /* Safari, Android, iOS */
+			     url('HKGrotesk-Italic.svg#HKGrotesk-Italic') format('svg'); /* Chrome < 4, Legacy iOS */
+			}

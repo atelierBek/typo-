@@ -1,0 +1,10 @@
+
+		    /*HKGrotesk-MediumItalic*/
+		    @font-face {
+			font-family: 'HKGrotesk-MediumItalic';
+			src: url('HKGrotesk-MediumItalic.eot'); /* IE 9 Compatibility Mode */
+			src: url('HKGrotesk-MediumItalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+			     url('HKGrotesk-MediumItalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+			     url('HKGrotesk-MediumItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+			     url('HKGrotesk-MediumItalic.svg#HKGrotesk-MediumItalic') format('svg'); /* Chrome < 4, Legacy iOS */
+			}

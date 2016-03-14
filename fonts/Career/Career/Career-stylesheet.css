@@ -1,0 +1,10 @@
+
+		    /*Career*/
+		    @font-face {
+			font-family: 'Career';
+			src: url('Career.eot'); /* IE 9 Compatibility Mode */
+			src: url('Career.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+			     url('Career.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+			     url('Career.ttf') format('truetype'), /* Safari, Android, iOS */
+			     url('Career.svg#Career') format('svg'); /* Chrome < 4, Legacy iOS */
+			}

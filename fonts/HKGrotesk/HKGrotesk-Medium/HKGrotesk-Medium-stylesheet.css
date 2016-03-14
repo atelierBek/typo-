@@ -1,0 +1,10 @@
+
+		    /*HKGrotesk-Medium*/
+		    @font-face {
+			font-family: 'HKGrotesk-Medium';
+			src: url('HKGrotesk-Medium.eot'); /* IE 9 Compatibility Mode */
+			src: url('HKGrotesk-Medium.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+			     url('HKGrotesk-Medium.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+			     url('HKGrotesk-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+			     url('HKGrotesk-Medium.svg#HKGrotesk-Medium') format('svg'); /* Chrome < 4, Legacy iOS */
+			}

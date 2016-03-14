@@ -1,0 +1,10 @@
+
+		    /*HKGrotesk-BoldItalic*/
+		    @font-face {
+			font-family: 'HKGrotesk-BoldItalic';
+			src: url('HKGrotesk-BoldItalic.eot'); /* IE 9 Compatibility Mode */
+			src: url('HKGrotesk-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+			     url('HKGrotesk-BoldItalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+			     url('HKGrotesk-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+			     url('HKGrotesk-BoldItalic.svg#HKGrotesk-BoldItalic') format('svg'); /* Chrome < 4, Legacy iOS */
+			}
